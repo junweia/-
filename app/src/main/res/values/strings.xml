@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">自动点击器 Pro</string>
+    <string name="accessibility_description">仅在用户主动启动时执行屏幕点击手势。</string>
+</resources>
